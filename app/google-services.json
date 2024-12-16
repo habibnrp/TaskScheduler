@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "136110370780",
+    "project_id": "taskscheduler-d7747",
+    "storage_bucket": "taskscheduler-d7747.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136110370780:android:01d7204fc8c336b60ca919",
+        "android_client_info": {
+          "package_name": "com.example.taskscheduler"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIvgg5K8n-sRtY8aBO3QbE03vEtiWzGOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
